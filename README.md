@@ -6,7 +6,7 @@
 
 `index.css`は、グローバルスタイルシートです。
 
-> [TIP!]
+> [!TIP]
 > CSS Modulesを使用しているため、各コンポーネント固有のスタイルは、`[component name].module.css`としてファイルを作成し、コンポーネント内でインポートして使用します。
 
 - src/main.tsx
